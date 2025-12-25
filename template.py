@@ -5,8 +5,8 @@ list_of_files=[
 
     ".github/workflows/.gitkeep",
     "src/ineuron/__init__.py",
-    "src/ineuron/components/__init__.py",
     "src/ineuron/components/data_ingestion.py",
+    "src/ineuron/components/__init__.py",
     "src/ineuron/components/data_transformation.py",
     "src/ineuron/components/model_trainer.py",
     "src/ineuron/components/model_evaluation.py"
